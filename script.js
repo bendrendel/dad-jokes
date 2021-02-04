@@ -18,7 +18,6 @@ async function generateJoke() {
   jokeEl.innerHTML = data.joke;
 }
 
-
 // Using .then()
 // function generateJoke() {
 //   const config = {
