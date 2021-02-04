@@ -1,8 +1,8 @@
-# Project Starter
+# Dad Jokes
 
 ## Introduction
 
-This project is a template for quickly starting new projects. It contains a boilerplate HTML file, a basic CSS stylesheet, an empty JS file, and a basic readme file.
+This project displays random jokes with the click of a button.  The jokes come from an API call icanhazdadjokes.com.
 
 ## Technologies
 
@@ -10,7 +10,7 @@ This project uses HTML, CSS, and vanilla JS.
 
 ## Sources
 
-This is the starter project in the Udemy course _50 Projects in 50 Days_ by Brad Traversy and Florin Pop.
+This is the 10th project in the Udemy course _50 Projects in 50 Days_ by Brad Traversy and Florin Pop.
 
 ## Other
 
